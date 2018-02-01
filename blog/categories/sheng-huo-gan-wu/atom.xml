@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[森林中的小木屋]]></title>
-  <link href="http://wildstrom.github.io/github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 生活感悟 | 森林中的小木屋]]></title>
+  <link href="http://wildstrom.github.io/github.io/blog/categories/sheng-huo-gan-wu/atom.xml" rel="self"/>
   <link href="http://wildstrom.github.io/github.io/"/>
   <updated>2018-02-02T00:11:49+08:00</updated>
   <id>http://wildstrom.github.io/github.io/</id>
@@ -12,15 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[你们好啊]]></title>
-    <link href="http://wildstrom.github.io/github.io/blog/2018/02/01/ni-men-hao-a/"/>
-    <updated>2018-02-01T21:55:40+08:00</updated>
-    <id>http://wildstrom.github.io/github.io/blog/2018/02/01/ni-men-hao-a</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[2月份开始了]]></title>
